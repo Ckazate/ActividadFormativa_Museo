@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ActividadFormativa_Museo.Empleado">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAQAAAKEAAACgAAAAAAAAAQAAAAEAAAAAgA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActividadFormativa_Museo.Guia">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActividadFormativa_Museo.Administrador">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Administrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActividadFormativa_Museo.ObraArte">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCAAAAAQAAAAGAAAEAgAABAAAAAAAAAAAAAAAIAgA=</HashCode>
+      <FileName>ObraArte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActividadFormativa_Museo.Program">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAIAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActividadFormativa_Museo.Galeria">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAACAAAKAgAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Galeria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActividadFormativa_Museo.Exposicion">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAACAAAAAAACAAAACgAAAAgAAAAAAAAEAAAABAgA=</HashCode>
+      <FileName>Exposicion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
